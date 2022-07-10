@@ -8,7 +8,7 @@ but you probably don't care about that. When I'm not coding I like to ride bikes
 <p align="center">
 I'm currently reviewing more about Javascript data structures & algorithms and I'm taking a Udemy course on Java on the side.</p>
 <p align="center">
-My goal is to be employed by a company that recognizes my potential and offers a team that will support me and help me continue to learn and grow. We all start somewhere right?</p>
+My goal is to be employed by a company that recognizes my potential with a team that will support me and help me continue to learn and grow. We all start somewhere right?</p>
 
 <!--
 **nekomask/nekomask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
