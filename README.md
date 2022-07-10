@@ -1,4 +1,11 @@
-### Hi there 👋
+<img src="https://i.imgur.com/A8NrmJL.gif" />
+
+Hi! I'm a full-stack software engineer living in the SF Bay Area. I graduated from General Assembly coding bootcamp in 2022. I also have a real Bachelor's degree
+but you probably don't care about that. When I'm not coding I like to ride bikes, play video games, watch cartoons, and exercise when I'm feeling motivated.
+
+I'm currently reviewing more about Javascript data structures & algorithms and I'm taking a Udemy course on Java on the side.
+
+My goal is to be employed by a company that recognizes my potential and offers a team that will support me and help me continue to learn and grow. We all start somewhere right?
 
 <!--
 **nekomask/nekomask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
