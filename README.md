@@ -1,6 +1,8 @@
 <p align="center">
 <img src="https://i.imgur.com/A8NrmJL.gif" />
+</p>
 
+<p>
 Hi! I'm a full-stack software engineer living in the SF Bay Area. I graduated from General Assembly coding bootcamp in 2022. I also have a real Bachelor's degree
 but you probably don't care about that. When I'm not coding I like to ride bikes, play video games, watch cartoons, and exercise when I'm feeling motivated.
 
