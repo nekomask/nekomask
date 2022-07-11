@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-Hi! I'm a full-stack software engineer living in the SF Bay Area. I graduated from General Assembly coding bootcamp in 2022. I also have a real Bachelor's degree
-but you probably don't care about that. When I'm not coding I like to ride bikes, read manga, play video games, and exercise when I'm feeling motivated.</p>
+Hi! I'm a full-stack software engineer living in the SF Bay Area. I graduated from General Assembly coding bootcamp in 2022. I also have a real Bachelor's degree in French but you probably don't care about that. When I'm not coding I like to ride bikes, read manga, play video games, and exercise when I'm feeling motivated.</p>
 <p align="center">
 I'm currently working on a certification in Javascript data structures & algorithms and I'm taking a Udemy course in Java on the side.</p>
 <p align="center">
